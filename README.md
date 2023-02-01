@@ -1,2 +1,2 @@
-# Proyecto Cara o Cruz
-Diferentes proyectos realizados con phyton
+# Proyectos creados con Python
+
